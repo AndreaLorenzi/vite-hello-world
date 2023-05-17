@@ -11,6 +11,7 @@ export default{
 
 <template>
   <TitleComponent />
+  <AppHero/>
 </template>
 
 <style scoped></style>
