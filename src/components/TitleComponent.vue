@@ -5,4 +5,7 @@
 </template>
 
 <style>
+h1{
+    color: greenyellow;
+}
 </style>

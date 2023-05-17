@@ -1,13 +1,12 @@
 <script></script>
 
 <template>
-    <body>
-        
-    </body>
+
 </template>
 
 <style>
-body{
+html{
     background-image: url(img/sfondo.jpeg);
+    background-size: cover;
 }
 </style>
